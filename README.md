@@ -12,6 +12,7 @@ Download **M1-Trophy-0.2.4-Full.zip** from [Releases](https://github.com/AIM928/
 - Offline checks passed; live firing and camera verification remain pending. Compatibility depends on the GHPC version and other mods.
 
 ## Credits
-Vehicle model and original textures: **War Thunder / Gaijin Entertainment**. No ownership of these assets is claimed.
-GHPC integration: AIM. Remote-station port: WpsxX / upstream CROWS authors, AIM integration.
-Unofficial fan mod; not endorsed by Gaijin Entertainment or Radian Simulations.
+Vehicle model and original textures: **War Thunder / Gaijin Entertainment**.
+Remote weapon station: **我怕肾虚** (M1A1艾布拉姆斯AMP 我怕肾虚修复版), with upstream CROWS contributors.
+GHPC integration and tuning: AIM.
+Unofficial fan mod; no ownership of the original model/textures is claimed. Not endorsed by Gaijin Entertainment or Radian Simulations.
